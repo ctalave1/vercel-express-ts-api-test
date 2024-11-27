@@ -9,7 +9,7 @@ A simple Express API that returns a basic message to the client upon hitting the
 ## Install dependencies
 ```npm install```
 
-## How to run
+## How to run project locally
 
 ```
 npm run start
